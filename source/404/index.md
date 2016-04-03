@@ -57,7 +57,7 @@ fancybox: false
 ***
 
 <div class="pic">
-<img src="/resources/Mihawk-Wind.gif" title="Mihawk-Wind">
+<img src="/img/touxiang.png" title="touxiang">
 </div>
 
 <p class="center">很抱歉，您所访问的地址并不存在: </p>
@@ -66,7 +66,7 @@ fancybox: false
 
 <p class="center">可在边栏搜索框中对本站进行检索，以获取相关信息。</p>
 
-<div style="text-align: center">
+<!--<div style="text-align: center">
 以下是博主喜欢的一些歌曲，可以听听，稍作休息~
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=330 src="http://music.163.com/outchain/player?type=0&id=112513213&auto=0&height=430"></iframe>
-</div>
+</div>-->
