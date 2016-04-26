@@ -52,3 +52,12 @@ $(".a").height($(".a").width()*0.5);
 	<img src="../images/share_index.png"/>
 <div>
 ```
+
+### 页面右滑出现白色的竖线
+### div设置宽度100%，禁止左右滑动
+```
+$(document.body).css({
+   "overflow-x":"hidden",
+   "overflow-y":"hidden"
+ });
+```
